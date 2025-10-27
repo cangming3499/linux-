@@ -1,0 +1,1 @@
+使用deepseek 生成的linux系统信息查看工具
